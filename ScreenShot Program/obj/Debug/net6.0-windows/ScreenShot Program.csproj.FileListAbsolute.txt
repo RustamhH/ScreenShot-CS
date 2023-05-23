@@ -1,0 +1,21 @@
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\ScreenShot Program.exe
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\ScreenShot Program.deps.json
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\ScreenShot Program.runtimeconfig.json
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\ScreenShot Program.dll
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\ScreenShot Program.pdb
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\SixLabors.ImageSharp.Web.dll
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\System.Windows.Forms.Ribbon35.dll
+D:\c#\ScreenShot Program\ScreenShot Program\bin\Debug\net6.0-windows\System.Drawing.VisualStudio.15.0.dll
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.csproj.AssemblyReference.cache
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.AssemblyInfoInputs.cache
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.AssemblyInfo.cs
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.csproj.CoreCompileInputs.cache
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.csproj.CopyComplete
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.dll
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\refint\ScreenShot Program.dll
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.pdb
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ScreenShot Program.genruntimeconfig.cache
+D:\c#\ScreenShot Program\ScreenShot Program\obj\Debug\net6.0-windows\ref\ScreenShot Program.dll
